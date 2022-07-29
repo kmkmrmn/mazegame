@@ -1,0 +1,15 @@
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\bin\Debug\net6.0\mazegame.exe
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\bin\Debug\net6.0\mazegame.deps.json
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\bin\Debug\net6.0\mazegame.runtimeconfig.json
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\bin\Debug\net6.0\mazegame.dll
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\bin\Debug\net6.0\mazegame.pdb
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.csproj.AssemblyReference.cache
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.AssemblyInfoInputs.cache
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.AssemblyInfo.cs
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.csproj.CoreCompileInputs.cache
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.dll
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\refint\mazegame.dll
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.pdb
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\mazegame.genruntimeconfig.cache
+C:\Users\h-fujita\Documents\勉強用\C#勉強\mazegame\obj\Debug\net6.0\ref\mazegame.dll
