@@ -18,7 +18,6 @@ namespace ConsoleApplication1.Maze
         public int glX;
         public int glY;
         public int pl;
-        public string key;
 
         // 乱数生成用
         private Random Random;
@@ -234,7 +233,7 @@ namespace ConsoleApplication1.Maze
         // プレイヤーの移動
         public void MovePlayer()
         {   
-                key = Console.ReadLine();
+                string key = Console.ReadLine();
                 if (key == "a")
                 {
                     pl = stX - 1;
